@@ -1,0 +1,10 @@
+*
+!*.c
+!*.sym
+!Make*
+!README
+!.gitignore
+!systype.sh
+!*.awk
+!*.so*
+!figlinks/*
